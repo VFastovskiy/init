@@ -1,0 +1,5 @@
+Look at first IP adress. 
+This is the IP address of router (192.168.20.1).
+The traceroute linux command uses UDP packets.
+It sends a packet with TTL = 1 and looks at the address
+of the responding node.

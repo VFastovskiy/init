@@ -1,0 +1,6 @@
+1.
+	command = ifconfig en0 | grep "inet " | awk '{print $2}' 
+	OUT = 192.168.22.91
+2.
+	command = nslookup OUT | grep name | awk '{print $4}'
+	OUT = [computer].21-school.ru

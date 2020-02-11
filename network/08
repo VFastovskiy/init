@@ -1,0 +1,7 @@
+1.
+	host command is a DNS lookup utility,
+	finding the IP address of a domain name,
+	so we use "host -t a slash16.org" command 
+	to find out IP address of slash16.org
+2. 
+	find out the provider by IP address: whois 54.192.99.177 (Provider: Amazon) 

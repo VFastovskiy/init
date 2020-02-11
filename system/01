@@ -1,0 +1,4 @@
+information about installed version of Debian you can find 
+at etc directory, file called debian_version
+
+cat /etc/debian_version 

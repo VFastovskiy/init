@@ -1,0 +1,2 @@
+command: systemctl list-units --type service --all | grep "running"
+type: daemon

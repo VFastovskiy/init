@@ -1,0 +1,2 @@
+local DNS entries is located in the root folder etc in file called hosts.
+to display information, enter command "cat /etc/hosts".

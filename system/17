@@ -1,0 +1,6 @@
+command: ssh [username]@[localhost] -p [host_port]
+
+my case:
+		[username] = kcharlet
+		[localhost] = 127.0.0.1
+		[host_port] = 2222
